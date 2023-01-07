@@ -1,0 +1,7 @@
+pandas~=1.4.0
+numpy~=1.23.5
+tqdm
+networkx~=2.6.3
+scipy
+torch~=1.13.0
+matplotlib~=3.5.1
